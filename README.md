@@ -20,6 +20,7 @@ This repository documents the design, fabrication, and preliminary characterizat
 3. Electrode fabrication using metal masking
 4. Electrical and optical characterization
 5. Preliminary gas sensing setup and performance evaluation
+![Device Fabrication](https://github.com/pranathi-212/Fabrication-of-Zinc-Oxide-for-Gas-Sensing-application/blob/main/ChatGPT%20Image%20Sep%208,%202025,%2007_49_34%20PM.png?raw=true)
 
 ## 🚀 Outcomes
 
